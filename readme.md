@@ -2,7 +2,7 @@
 
 初衷：在网络上利用git存储项目模板,本地执行命令clone创建项目,免去从头构建的麻烦
 
-代码来源<a src="https://segmentfault.com/a/1190000006190814" style="background-color:#030;">教你从零开始搭建一款前端脚手架工具</a>
+代码来源<a href="https://segmentfault.com/a/1190000006190814" style="background-color:#030;">教你从零开始搭建一款前端脚手架工具</a>
 
 下载：
 
