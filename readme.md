@@ -7,7 +7,7 @@
 下载：
 
 ```
-git clone https://github.com/jrainlau/scion.git
+git clone https://github.com/sunlianlong/fe-cli.git
 
 cd scion && npm install
 
